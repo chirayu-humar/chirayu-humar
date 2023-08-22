@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![chirayu-humar's GitHub | Stats](https://stats.quine.sh/chirayu-humar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=chirayu-humar)
+[![chirayu-humar's GitHub | Dependencies](https://stats.quine.sh/chirayu-humar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=chirayu-humar)
+[![chirayu-humar's GitHub | Topics Over Time](https://stats.quine.sh/chirayu-humar/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=chirayu-humar)
+[![chirayu-humar's GitHub | Languages Over Time](https://stats.quine.sh/chirayu-humar/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=chirayu-humar)
